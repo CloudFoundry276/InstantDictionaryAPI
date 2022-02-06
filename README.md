@@ -1,0 +1,2 @@
+# InstantDictionaryAPI
+Instant Dictionary API
